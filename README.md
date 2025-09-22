@@ -121,6 +121,12 @@ Using **Google Cloud’s cutting-edge AI stack (Gemini, Vertex AI, Gemma, Code A
 
 ---
 
+## 📌Prototype Explanation Video:
+
+- 🎥 **Explanation Video**: [Click Here](https://drive.google.com/file/d/1P6V-KY6AmV83FYNu1ywvsobqkGb4-HlJ/view)
+
+---
+
 ## 👩‍💻 Team
 
 * **ImpactForge**
