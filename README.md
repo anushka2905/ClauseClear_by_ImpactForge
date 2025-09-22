@@ -1,7 +1,14 @@
+
 # 🧩 ClauseClear\_by\_ImpactForge
 
 ClauseClear is an AI-powered platform that **simplifies complex legal documents** such as rental agreements, employment contracts, loan documents, vendor contracts, and Terms & Conditions.
 Using **Google Cloud’s cutting-edge AI stack (Gemini, Vertex AI, Gemma, Code Assist)**, ClauseClear provides **clause-level summarization, risk detection, multilingual explanations, and interactive Q\&A** to empower individuals, startups, and small businesses to make informed legal decisions.
+
+---
+
+## 🌐 Working Prototype
+
+-  **Prototype**: [Click Here](https://clauseclear-document-ease.lovable.app/)
 
 ---
 
