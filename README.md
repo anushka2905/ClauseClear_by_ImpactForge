@@ -57,34 +57,7 @@ Admin → Dashboard (monitor flagged clauses, analytics)
 
 ## 📊 Use Case Diagram
 
-```plantuml
-@startuml
-left to right direction
-actor User as U
-actor "Legal Expert/Admin" as A
-
-rectangle "ClauseClear AI System" {
-  usecase "Upload Contract / Agreement" as UC1
-  usecase "Clause-Level Simplification" as UC2
-  usecase "Risk & Obligation Detection" as UC3
-  usecase "Ask Interactive Q&A" as UC4
-  usecase "Multilingual / Voice Explanation" as UC5
-  usecase "Compare Agreements" as UC6
-  usecase "Role-Based Summary" as UC7
-}
-
-U --> UC1
-U --> UC2
-U --> UC3
-U --> UC4
-U --> UC5
-U --> UC6
-U --> UC7
-
-A --> UC2
-A --> UC3
-@enduml
-```
+<img width="466" height="593" alt="Image" src="https://github.com/user-attachments/assets/945ed99a-c094-4b18-9f08-b74a394b9df5" />
 
 ---
 
