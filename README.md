@@ -1,4 +1,4 @@
-# ClauseClear\_by\_ImpactForge
+# 🧩 ClauseClear\_by\_ImpactForge
 
 ClauseClear is an AI-powered platform that **simplifies complex legal documents** such as rental agreements, employment contracts, loan documents, vendor contracts, and Terms & Conditions.
 Using **Google Cloud’s cutting-edge AI stack (Gemini, Vertex AI, Gemma, Code Assist)**, ClauseClear provides **clause-level summarization, risk detection, multilingual explanations, and interactive Q\&A** to empower individuals, startups, and small businesses to make informed legal decisions.
@@ -41,17 +41,7 @@ Using **Google Cloud’s cutting-edge AI stack (Gemini, Vertex AI, Gemma, Code A
 
 ## 🏗️ Architecture
 
-```
-User → Web App / Mobile App
-     → Backend API (Spring Boot / Flask / Node.js)
-     → Google Cloud Services:
-        - Vertex AI / Gemini → Summarization + Q&A
-        - Gemma → Multilingual Simplification
-        - Cloud Storage → Document Uploads
-        - Firestore/SQL → User Data + History
-     → Frontend (React / Thymeleaf / Flutter)
-Admin → Dashboard (monitor flagged clauses, analytics)
-```
+<img width="3600" height="2400" alt="Image" src="https://github.com/user-attachments/assets/cef201c7-ac54-467a-bc57-d3fec3a79a29" />
 
 ---
 
@@ -134,4 +124,12 @@ Admin → Dashboard (monitor flagged clauses, analytics)
 ## 👩‍💻 Team
 
 * **ImpactForge**
-  Innovators passionate about AI, law-tech, and social impact 🚀
+
+* Team Leader - Shraddha Jha
+  * Team Mates -
+
+    * Anushka Shrivastava
+    * Yuvika Patel
+    * Yash Bhamare
+    * Shivani Asheya
+
